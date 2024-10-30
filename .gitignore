@@ -1,3 +1,4 @@
 *.pdf
 src/wave
 src/wave.vcd
+.hdl_checker/
